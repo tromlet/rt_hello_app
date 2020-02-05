@@ -1,3 +1,7 @@
-# README
+# Ruby on Rails Tutorial
 
-This README is pretty basic, as this is just an app to refresh my Ruby on Rails know-how.
+## "hello, world!"
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](https://www.railstutorial.org/)
+by [Michael Hartl](https://www.michaelhartl.com/). Hello, world!
